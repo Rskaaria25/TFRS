@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Food Recommendations</title>
+</head>
+<body>
+    <h1>Food Recommendations</h1>
+    <form method="POST" action="/">
+        <label for="food_types">Enter food types (separated by commas):</label><br>
+        <input type="text" id="food_types" name="food_types"><br><br>
+        <input type="submit" value="Get Recommendations">
+    </form>
+    {% if recommendations %}
+        <h2>Recommendations:</h2>
+        <ul>
+            {% for recommendation in recommendations %}
+                <li>{{ recommendation }}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+</body>
+</html>

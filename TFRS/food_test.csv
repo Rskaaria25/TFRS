@@ -1,0 +1,1274 @@
+foodId,Nama,Tipe 1,Tipe 2,Tipe 3
+1,Sosis Bakar,ayam,daging,daging
+2,Ngohiong Ayam Udang,ayam,daging,daging
+3,Rawon Ayam,ayam,daging,daging
+4,Usus Goreng Crispy,ayam,daging,daging
+5,Ceker Rica Rica,ayam,daging,daging
+6,Ceker Kecap Pedas,ayam,daging,daging
+7,Ayam Suwir Kecap,ayam,daging,daging
+8,Burung Puyuh Bakar,ayam,daging,daging
+9,Dangkot Ayam,ayam,daging,daging
+10,Ayam Bumbu Merah,ayam,daging,daging
+11,Pempek Ayam,ayam,daging,daging
+12,Ngohiong Ayam,ayam,daging,daging
+13,Rica Rica Bebek,ayam,daging,daging
+14,Ayam Rujak Tanpa Santan,ayam,daging,daging
+15,Daging Goreng,ayam,daging,daging
+16,Asam Pedas (Padeh) Daging,ayam,daging,daging
+17,Tongseng Kambing Tanpa Santan,ayam,daging,daging
+18,Saksang Ayam,ayam,daging,daging
+19,Ayam Goreng Madu,ayam,daging,daging
+20,Ayam Kecap,ayam,daging,daging
+21,Ayam Geprek Keju,ayam,daging,daging
+22,Chicken Basil Thai,ayam,daging,daging
+23,Dumpling Ayam Kukus,ayam,daging,daging
+24,Tangsuyuk Sapi,ayam,daging,daging
+25,Kekian Ayam Udang,ayam,daging,daging
+26,Yakitori Ayam,ayam,daging,daging
+27,Ayam Telur Asin,ayam,daging,daging
+28,Ayam Kuah Hitam,ayam,daging,daging
+29,Korean Spicy Chicken,ayam,daging,daging
+30,Nasi Jinggo,ayam,daging,daging
+31,Bubur Ayam Quaker Oat,ayam,daging,daging
+32,Lidah Sapi Cabe hijau,ayam,daging,daging
+33,Ayam Goreng Oatmeal,ayam,daging,daging
+34,Burrito Ayam,ayam,daging,daging
+35,Ayam Kecap Kuah,ayam,daging,daging
+36,Ayam Kecap Pedas,ayam,daging,daging
+37,Ayam Bumbu Rajang (Khas Lombok),ayam,daging,daging
+38,Gore Gore,ayam,daging,daging
+39,Bakso Keju,ayam,daging,daging
+40,Tum Ayam,ayam,daging,daging
+41,Ayam Bakar Lumajang,ayam,daging,daging
+42,Ayam Bakar Bumbu Rujak,ayam,daging,daging
+43,Ayam Panggang Pecel,ayam,daging,daging
+44,Nasi Briyani Ayam,ayam,daging,daging
+45,Ayam Kodok,ayam,daging,daging
+46,Sepat Ayam,ayam,daging,daging
+47,Tahu Campur,ayam,daging,daging
+48,Ayam Kecap Jahe,ayam,daging,daging
+49,Daging Bumbu Bali,ayam,daging,daging
+50,Ayam Bakar Klaten,ayam,daging,daging
+51,Ayam Goreng Cabe,ayam,daging,daging
+52,Ayam Kare Jawa,ayam,daging,daging
+53,Ayam Goreng Sasando,ayam,daging,daging
+54,Kalio Daging Sapi,ayam,daging,daging
+55,Tumis Ayam Cincang Nanas Paprika,ayam,daging,daging
+56,Tim Telur Daging,ayam,daging,daging
+57,Sate Ponorogo,ayam,daging,daging
+58,Ayam Rebus Bumbu,ayam,daging,daging
+59,Ayam Saus Inggris,ayam,daging,daging
+60,Ayam Tangkap,ayam,daging,daging
+61,Nasi Bebek,ayam,daging,daging
+62,Sayap Ayam Isi,ayam,daging,daging
+63,Sop Buntut Bakar,ayam,daging,daging
+64,Siomay Udang Kuah Kaldu,ayam,daging,daging
+65,Batagor Kuah,ayam,daging,daging
+66,Ayam Goreng Bawang,ayam,daging,daging
+67,Ayam Goreng Terasi,ayam,daging,daging
+68,Ayam Suwir Cabe Ijo,ayam,daging,daging
+69,Ayam Panggang Madu,ayam,daging,daging
+70,Ayam Panggang Lada Hitam,ayam,daging,daging
+71,Dendeng Lambok,ayam,daging,daging
+72,Oseng Tahu Udang,ayam,daging,daging
+73,Pallu Basa,ayam,daging,daging
+74,Egg Chicken Roll,ayam,daging,daging
+75,Itiak Lado Mudo (Bebek Cabe Ijo),ayam,daging,daging
+76,Tengkleng,ayam,daging,daging
+77,Sate Padang,ayam,daging,daging
+78,Ayam Jerit,ayam,daging,daging
+79,Tumis Daging Sapi Cabe Ijo,ayam,daging,daging
+80,Kalio Ayam,ayam,daging,daging
+81,Iga Penyet,ayam,daging,daging
+82,Sambal Goreng Hati Sapi,ayam,daging,daging
+83,Ayam Pelalah,ayam,daging,daging
+84,Krengsengan Daging Sapi,ayam,daging,daging
+85,Ayam Bekakak,ayam,daging,daging
+86,Ekkado,ayam,daging,daging
+87,Gadon Daging,ayam,daging,daging
+88,Gulai Iga Sapi,ayam,daging,daging
+89,Ayam Saus Lemon,ayam,daging,daging
+90,Bistik Lidah Sapi,ayam,daging,daging
+91,Kebab,ayam,daging,daging
+92,Ayam Barbeque,ayam,daging,daging
+93,Ayam Lodho,ayam,daging,daging
+94,Ayam Gepuk,ayam,daging,daging
+95,Ayam Goreng KFC Krispi,ayam,daging,daging
+96,Ayam Gongso,ayam,daging,daging
+97,Spicy Chicken Wings (Richeese),ayam,daging,daging
+98,Bebek Madura,ayam,daging,daging
+99,Paru Goreng,ayam,daging,daging
+100,Pindang Daging Kudus,ayam,daging,daging
+101,Bebek Kaleyo,ayam,daging,daging
+102,Sate Maranggi,ayam,daging,daging
+103,Ayam Wijen Saus Mentega,ayam,daging,daging
+104,Babat Gongso,ayam,daging,daging
+105,Ayam Kecap Goreng Mentega,ayam,daging,daging
+106,Kari Kambing,ayam,daging,daging
+107,Mie Kangkung Ayam,ayam,daging,daging
+108,Sambal Goreng Krecek,ayam,daging,daging
+109,Gyoza,ayam,daging,daging
+110,Sate Klopo,ayam,daging,daging
+111,Sop Ceker,ayam,daging,daging
+112,Sempol Ikan Tenggiri,ayam,daging,daging
+113,Bebek Goreng Surabaya,ayam,daging,daging
+114,Ayam Kemangi,ayam,daging,daging
+115,Ayam Pok Pok,ayam,daging,daging
+116,Ayam Geprek (Tanpa Tepung),ayam,daging,daging
+117,Ayam Geprek Jogja,ayam,daging,daging
+118,Bulgogi,ayam,daging,daging
+119,Ayam Penyet,ayam,daging,daging
+120,Dim Sum Ceker Ayam,ayam,daging,daging
+121,Tumis Buncis Daging Giling,ayam,daging,daging
+122,Ayam Goreng Tulang Lunak,ayam,daging,daging
+123,Ayam Goreng Kalasan,ayam,daging,daging
+124,Sate Kambing,ayam,daging,daging
+125,Pindang Tulang Iga,ayam,daging,daging
+126,Ayam Bakar Padang,ayam,daging,daging
+127,Ayam Sambal Matah,ayam,daging,daging
+128,Ayam Lada Hitam,ayam,daging,daging
+129,Ayam Bakar Bumbu Bali,ayam,daging,daging
+130,Bakso Ayam,ayam,daging,daging
+131,Brongkos,ayam,daging,daging
+132,Abon Sapi,ayam,daging,daging
+133,Ayam Bakar Bumbu Kuning,ayam,daging,daging
+134,Galantin Ayam,ayam,daging,daging
+135,Ayam Nasu Palekko,ayam,daging,daging
+136,Bistik Ayam,ayam,daging,daging
+137,Gulai Ayam Padang,ayam,daging,daging
+138,Rendang Ayam,ayam,daging,daging
+139,Semur Hati Ampela Ayam,ayam,daging,daging
+140,Ayam Bakar Kecap,ayam,daging,daging
+141,Opor Ayam Putih,ayam,daging,daging
+142,Galantin Daging Sapi,ayam,daging,daging
+143,Pecel Ayam,ayam,daging,daging
+144,Ayam Taliwang,ayam,daging,daging
+145,Sambal Goreng Ati Ampela,ayam,daging,daging
+146,Ayam Karage,ayam,daging,daging
+147,Ayam Nanking,ayam,daging,daging
+148,Rendang Daging Sapi Padang,ayam,daging,daging
+149,Sop Saudara,ayam,daging,daging
+150,Ayam Kremes,ayam,daging,daging
+151,Usus Ayam Tumis Pedas Manis,ayam,daging,daging
+152,Ayam Kungpao,ayam,daging,daging
+153,Terik Daging Tahu Tempe,ayam,daging,daging
+154,Beef Steak Tenderloin Blackpepper Sauce,ayam,daging,daging
+155,Chicken (Ayam) Teriyaki,ayam,daging,daging
+156,Ayam Betutu,ayam,daging,daging
+157,Beef Daging Teriyaki,ayam,daging,daging
+158,Steak Ayam Brown Sauce ( Chicken Steak ),ayam,daging,daging
+159,Seblak Ceker,ayam,daging,daging
+160,Ayam Pop,ayam,daging,daging
+161,Tongseng Ayam,ayam,daging,daging
+162,Dendeng Balado,ayam,daging,daging
+163,Ayam Balado,ayam,daging,daging
+164,Semur Daging Sapi,ayam,daging,daging
+165,Rolade Daging Sapi,ayam,daging,daging
+166,Daging Sapi Paprika Lada Hitam,ayam,daging,daging
+167,Siomay Ayam Udang Dimsum,ayam,daging,daging
+168,Tongseng Sapi,ayam,daging,daging
+169,Bistik Daging Sapi,ayam,daging,daging
+170,Ayam Kuluyuk,ayam,daging,daging
+171,Rendang Daging Sapi (Asli Minang),ayam,daging,daging
+172,Ayam Saus Tiram,ayam,daging,daging
+173,Ayam Popcorn,ayam,daging,daging
+174,Kikil Sapi Oseng Cabe Hijau,ayam,daging,daging
+175,Sate Taichan,ayam,daging,daging
+176,Rawon,ayam,daging,daging
+177,Nugget Ayam,ayam,daging,daging
+178,Ayam Rica-Rica,ayam,daging,daging
+179,Ayam Kecap Padang,ayam,daging,daging
+180,Ayam Cabe Ijo,ayam,daging,daging
+181,Gulai Kambing,ayam,daging,daging
+182,Ayam Goreng Lengkuas,ayam,daging,daging
+183,Asem-Asem Daging,ayam,daging,daging
+184,Ayam Goreng Tepung,ayam,daging,daging
+185,Ayam Woku,ayam,daging,daging
+186,Ayam Suwir Pedas Bali,ayam,daging,daging
+187,Pepes Ayam,ayam,daging,daging
+188,Ayam Goreng Kecap,ayam,daging,daging
+189,Chicken Katsu,ayam,daging,daging
+190,Beef Yakiniku,ayam,daging,daging
+191,Ceker Ayam Pedas,ayam,daging,daging
+192,Ayam Bakar Madu,ayam,daging,daging
+193,Semur Ayam,ayam,daging,daging
+194,Ayam Serundeng,ayam,daging,daging
+195,Sate Lilit,ayam,daging,daging
+196,Chicken Cordon Bleu,ayam,daging,daging
+197,Selat Solo,ayam,daging,daging
+198,Empal Gentong,ayam,daging,daging
+199,Krengsengan Kambing,ayam,daging,daging
+200,Nasi Bakar Ayam Kemangi,ayam,daging,daging
+201,Nasi Gandul,ayam,daging,daging
+202,Mie Sop Medan,ayam,daging,daging
+203,Koloke Ayam,ayam,daging,daging
+204,Tongseng Kambing,ayam,daging,daging
+205,Ayam Tuturuga,ayam,daging,daging
+206,Sate Komoh,ayam,daging,daging
+207,Rabeg Daging Sapi,ayam,daging,daging
+208,Hamburger Daging,ayam,daging,daging
+209,Garang Asem Ayam,ayam,daging,daging
+210,Empal Gepuk,ayam,daging,daging
+211,Sate Ayam Madura,ayam,daging,daging
+212,Ayam Goreng Padang,ayam,daging,daging
+213,Daging Malbi Semur,ayam,daging,daging
+214,Dendeng Ragi,ayam,daging,daging
+215,Ayam Asam Manis,ayam,daging,daging
+216,Serundeng Daging,ayam,daging,daging
+217,Ayam Bumbu Rujak Kuah,ayam,daging,daging
+218,Ceker Ayam Mercon,ayam,daging,daging
+219,Iga Bakar Madu,ayam,daging,daging
+220,Sempol Ayam,ayam,daging,daging
+221,Sate Daging Sapi,ayam,daging,daging
+222,Dendeng Batokok,ayam,daging,daging
+223,Gulai Kikil (Tunjang),ayam,daging,daging
+224,Opor Ayam Kuning,ayam,daging,daging
+225,Oseng Mercon,ayam,daging,daging
+226,Semur Bola Bola Daging,ayam,daging,daging
+227,Kari Ayam,ayam,daging,daging
+228,Kentang Daging Cincang,ayam,daging,daging
+229,Rendang Bola Bola Daging,ayam,daging,daging
+230,Ikan Mas Pindang,ikan,seafood,seafood
+231,Ikan Mujair Goreng,ikan,seafood,seafood
+232,Ikan Bandeng Asam Manis,ikan,seafood,seafood
+233,Ikan Mas Bakar,ikan,seafood,seafood
+234,Ikan Mas Pesmol,ikan,seafood,seafood
+235,Ikan Bandeng Goreng,ikan,seafood,seafood
+236,Ikan Bandeng Pepes,ikan,seafood,seafood
+237,Ikan Mas Goreng,ikan,seafood,seafood
+238,Ikan Bandeng Gulai,ikan,seafood,seafood
+239,Ikan Kembung Pesmol,ikan,seafood,seafood
+240,Pepes Ikan Tongkol,ikan,seafood,seafood
+241,Pempek Panggang,ikan,seafood,seafood
+242,Gulai Ikan Mas,ikan,seafood,seafood
+243,Odeng Kuah Korea,ikan,seafood,seafood
+244,Ikan Nila Goreng,ikan,seafood,seafood
+245,Gulai Ikan Nila,ikan,seafood,seafood
+246,Pepes Ikan Nila,ikan,seafood,seafood
+247,Ikan Selar Bumbu Kuning,ikan,seafood,seafood
+248,Ikan Nila Asam Manis,ikan,seafood,seafood
+249,Rajungan Saus Padang,ikan,seafood,seafood
+250,Salmon Mentai,ikan,seafood,seafood
+251,Nasi Bakar Ikan Cakalang,ikan,seafood,seafood
+252,Sambal Cumi Pete Pedas,ikan,seafood,seafood
+253,Pindang Bumbu Sarden,ikan,seafood,seafood
+254,Bakso Udang Goreng,ikan,seafood,seafood
+255,Belut Goreng,ikan,seafood,seafood
+256,Kerang Hijau Balado,ikan,seafood,seafood
+257,Kerang Dara Saus Pedas,ikan,seafood,seafood
+258,Tuna Bakar Kecap,ikan,seafood,seafood
+259,Poke Bowl Salmon,ikan,seafood,seafood
+260,Sate Bandeng,ikan,seafood,seafood
+261,Patin Bakar,ikan,seafood,seafood
+262,Udang Saus Padang,ikan,seafood,seafood
+263,Otak Otak Bandeng,ikan,seafood,seafood
+264,Lumpia Vietnam,ikan,seafood,seafood
+265,Gulai Ikan Tongkol,ikan,seafood,seafood
+266,Cilok Ikan,ikan,seafood,seafood
+267,Jambal Roti Tumis,ikan,seafood,seafood
+268,Tongkol Suwir Lombok Ijo,ikan,seafood,seafood
+269,Rajungan Asam Manis,ikan,seafood,seafood
+270,Tulang Jambal Cabe,ikan,seafood,seafood
+271,Udang Cabe Garam,ikan,seafood,seafood
+272,Bola Bola Udang Roti,ikan,seafood,seafood
+273,Rolade Ikan,ikan,seafood,seafood
+274,Lele Goreng Kremes,ikan,seafood,seafood
+275,Udang Saus Inggris,ikan,seafood,seafood
+276,Kerang Hijau Rebus,ikan,seafood,seafood
+277,Ikan Salai Asap Balado,ikan,seafood,seafood
+278,Sambal Tongkol,ikan,seafood,seafood
+279,Siomay Ikan Bandung,ikan,seafood,seafood
+280,Sate Kerang,ikan,seafood,seafood
+281,Ikan Gurame Bakar Bumbu Bali,ikan,seafood,seafood
+282,Gurame Bumbu Rujak,ikan,seafood,seafood
+283,Tenggiri Lempah Kuning,ikan,seafood,seafood
+284,Cakalang Fufu Pampis,ikan,seafood,seafood
+285,Ikan Bawal Bumbu Kuning,ikan,seafood,seafood
+286,Kakap Bumbu Kuning,ikan,seafood,seafood
+287,Pempek Sutra,ikan,seafood,seafood
+288,Sambal Goreng Kentang Udang,ikan,seafood,seafood
+289,Pempek Lenggang,ikan,seafood,seafood
+290,Kepiting Saus Padang,ikan,seafood,seafood
+291,Cumi Goreng Mentega,ikan,seafood,seafood
+292,Gulai Kakap,ikan,seafood,seafood
+293,Kerang Dara Asam Manis,ikan,seafood,seafood
+294,Bandeng Bakar,ikan,seafood,seafood
+295,Nugget Ikan,ikan,seafood,seafood
+296,Hakau,ikan,seafood,seafood
+297,Ikan Gabus Pucung,ikan,seafood,seafood
+298,Pempek Kulit,ikan,seafood,seafood
+299,Sate Ikan Tongkol,ikan,seafood,seafood
+300,Ikan Gurame Bakar Madu,ikan,seafood,seafood
+301,Pindang Serani,ikan,seafood,seafood
+302,Ikan Bawal Bakar,ikan,seafood,seafood
+303,Pepes Udang,ikan,seafood,seafood
+304,Pempek Lenjer,ikan,seafood,seafood
+305,Ikan Salem Bumbu Sarden,ikan,seafood,seafood
+306,Salmon Teriyaki,ikan,seafood,seafood
+307,Lele Bakar,ikan,seafood,seafood
+308,Udang Pete Balado,ikan,seafood,seafood
+309,Gulai Cumi Isi Telur,ikan,seafood,seafood
+310,Bakso Ikan,ikan,seafood,seafood
+311,Pangek Ikan Nila,ikan,seafood,seafood
+312,Kerang Dara Rebus,ikan,seafood,seafood
+313,Bakso Udang Rebus,ikan,seafood,seafood
+314,Ikan Tenggiri Bumbu Kuning,ikan,seafood,seafood
+315,Pecak Lele,ikan,seafood,seafood
+316,Pepes Peda,ikan,seafood,seafood
+317,Pempek Kapal Selam,ikan,seafood,seafood
+318,Sambal Udang Goreng Petai,ikan,seafood,seafood
+319,Udang Bakar Madu,ikan,seafood,seafood
+320,Gulai Aceh Ikan Tongkol,ikan,seafood,seafood
+321,Ikan Kerapu Asam Manis,ikan,seafood,seafood
+322,Tim Ikan Kakap,ikan,seafood,seafood
+323,Kapurung,ikan,seafood,seafood
+324,Ikan Tongkol Bumbu Kuning,ikan,seafood,seafood
+325,Pindang Tongkol Balado,ikan,seafood,seafood
+326,Asam Padeh Ikan Patin,ikan,seafood,seafood
+327,Cumi Asam Manis Basah,ikan,seafood,seafood
+328,Udang Goreng Mentega,ikan,seafood,seafood
+329,Sarden Homemade,ikan,seafood,seafood
+330,Garang Asem Ikan,ikan,seafood,seafood
+331,Arsik Ikan Mas,ikan,seafood,seafood
+332,Ikan Asap Santan,ikan,seafood,seafood
+333,Palumara Bandeng,ikan,seafood,seafood
+334,Asam Padeh Ikan Tongkol,ikan,seafood,seafood
+335,Semur Bandeng,ikan,seafood,seafood
+336,Balado Ikan Kembung,ikan,seafood,seafood
+337,Abon Ikan Tongkol,ikan,seafood,seafood
+338,Ikan Kakap Asam Manis,ikan,seafood,seafood
+339,Otak-Otak Goreng,ikan,seafood,seafood
+340,Udang Asam Manis,ikan,seafood,seafood
+341,Abon Tuna,ikan,seafood,seafood
+342,Pempek Adaan,ikan,seafood,seafood
+343,Pepes Ikan Mas Khas Sunda,ikan,seafood,seafood
+344,Ikan Woku Belanga,ikan,seafood,seafood
+345,Gulai Ikan Tenggiri,ikan,seafood,seafood
+346,Ikan Mujair Bakar Kecap,ikan,seafood,seafood
+347,Ikan Gurame Asam Manis,ikan,seafood,seafood
+348,Udang Saos Tiram,ikan,seafood,seafood
+349,Pecel Lele,ikan,seafood,seafood
+350,Sambal Goreng Kering Teri Kacang,ikan,seafood,seafood
+351,Pesmol Ikan Nila,ikan,seafood,seafood
+352,Ikan Bandeng Presto,ikan,seafood,seafood
+353,Ikan Kembung Goreng Bumbu Kuning,ikan,seafood,seafood
+354,Cumi Goreng Tepung (Calamari),ikan,seafood,seafood
+355,Cumi Saus Padang,ikan,seafood,seafood
+356,Udang Goreng Tepung (Ebi Furai),ikan,seafood,seafood
+357,Pepes Ikan Kembung,ikan,seafood,seafood
+358,Pepes Ikan Teri Basah,ikan,seafood,seafood
+359,Pecak Gurame,ikan,seafood,seafood
+360,Kepiting Saus Tiram,ikan,seafood,seafood
+361,Ikan Bandeng Acar Kuning,ikan,seafood,seafood
+362,Cumi Telur Asin,ikan,seafood,seafood
+363,Cumi Saus Tiram,ikan,seafood,seafood
+364,Celimpungan,ikan,seafood,seafood
+365,Kerang Hijau Saus Tiram Pedas,ikan,seafood,seafood
+366,Asem Asem Bandeng,ikan,seafood,seafood
+367,Udang Telur Asin,ikan,seafood,seafood
+368,Mangut Lele,ikan,seafood,seafood
+369,Sup Ikan Patin,ikan,seafood,seafood
+370,Cumi Bakar Kecap,ikan,seafood,seafood
+371,Ikan Patin Bumbu Kuning,ikan,seafood,seafood
+372,Fish and Chips,ikan,seafood,seafood
+373,Pindang Patin,ikan,seafood,seafood
+374,Gulai Kepala Ikan Kakap,ikan,seafood,seafood
+375,Steak Ikan Dori Panggang Saus Lemon,ikan,seafood,seafood
+376,Cumi Asin Cabe Hijau,ikan,seafood,seafood
+377,Kotokan Ikan Pe Lombok Ijo,ikan,seafood,seafood
+378,Ikan Nila Bakar,ikan,seafood,seafood
+379,Nasi Bakar Tuna Pedas,ikan,seafood,seafood
+380,Amplang Krupuk Ikan,ikan,seafood,seafood
+381,Kepiting Lada Hitam,ikan,seafood,seafood
+382,Fish Cake,ikan,seafood,seafood
+383,Ikan Tongkol Bumbu Sarden,ikan,seafood,seafood
+384,Pindang Bandeng,ikan,seafood,seafood
+385,Ikan Kembung Bakar Padang,ikan,seafood,seafood
+386,Kepiting Asam Manis,ikan,seafood,seafood
+387,Sop Ikan Salmon,ikan,seafood,seafood
+388,Kerang Saus Padang,ikan,seafood,seafood
+389,Tumis Cumi Hitam,ikan,seafood,seafood
+390,Gulai Telur Tahu,tahu,tempe,telur
+391,Oncom Goreng,tahu,tempe,telur
+392,Keripik Tempe,tahu,tempe,telur
+393,Okonomiyaki,tahu,tempe,telur
+394,Keripik Tahu,tahu,tempe,telur
+395,Telur Gulung Sosis,tahu,tempe,telur
+396,Sayur Tahu Kuah Kuning,tahu,tempe,telur
+397,Tempe Teriyaki,tahu,tempe,telur
+398,Nasi Telur Pontianak,tahu,tempe,telur
+399,Telur Bacem,tahu,tempe,telur
+400,Papeda Gulung,tahu,tempe,telur
+401,Opor Telur,tahu,tempe,telur
+402,Bola Bola Tahu,tahu,tempe,telur
+403,Telur Geprek,tahu,tempe,telur
+404,Pempek Dos (Tanpa Ikan),tahu,tempe,telur
+405,Telur Balado,tahu,tempe,telur
+406,Sambal Tempe,tahu,tempe,telur
+407,Tahu Walik,tahu,tempe,telur
+408,Tahu Cabe Garam,tahu,tempe,telur
+409,Tahu Petis,tahu,tempe,telur
+410,Telur Petis,tahu,tempe,telur
+411,Orak Arik Telur Sayuran,tahu,tempe,telur
+412,Omelet Mie,tahu,tempe,telur
+413,Pepes Telur Ikan,tahu,tempe,telur
+414,Tahu Lontong,tahu,tempe,telur
+415,Omelet Telur,tahu,tempe,telur
+416,Kupat Tahu Magelang,tahu,tempe,telur
+417,Tahu Teriyaki,tahu,tempe,telur
+418,Pepes Telur Asin,tahu,tempe,telur
+419,Tahu Jeletot,tahu,tempe,telur
+420,Egg Roll Korea,tahu,tempe,telur
+421,Chawanmushi,tahu,tempe,telur
+422,Mun Tahu,tahu,tempe,telur
+423,Tahu Isi,tahu,tempe,telur
+424,Telur Bumbu Bali,tahu,tempe,telur
+425,Tahu Bakso,tahu,tempe,telur
+426,Perkedel Tahu,tahu,tempe,telur
+427,Fuyunghai,tahu,tempe,telur
+428,Tahu Tek Surabaya,tahu,tempe,telur
+429,Tahu Bulat,tahu,tempe,telur
+430,Martabak Tahu,tahu,tempe,telur
+431,Tempe Mendoan Purwokerto,tahu,tempe,telur
+432,Sapo Tahu,tahu,tempe,telur
+433,Tahu Gejrot,tahu,tempe,telur
+434,Tahu Rambutan,tahu,tempe,telur
+435,Perkedel Tempe,tahu,tempe,telur
+436,Tahu Kukus,tahu,tempe,telur
+437,Bacem Tahu Tempe,tahu,tempe,telur
+438,Telur Kecap,tahu,tempe,telur
+439,Tahu Putih Goreng Garing,tahu,tempe,telur
+440,Tahu Telur,tahu,tempe,telur
+441,Pepes Tahu,tahu,tempe,telur
+442,Telur Dadar Padang,tahu,tempe,telur
+443,Tahu Aci Tegal,tahu,tempe,telur
+444,Sate Telur Puyuh,tahu,tempe,telur
+445,Telur Pindang,tahu,tempe,telur
+446,Semur Telur,tahu,tempe,telur
+447,Tahu Sarang Burung,tahu,tempe,telur
+448,Tempe Penyet,tahu,tempe,telur
+449,Nugget Tahu,tahu,tempe,telur
+450,Rendang Telur,tahu,tempe,telur
+451,Tahu Fantasi,tahu,tempe,telur
+452,Semur Telur Puyuh,tahu,tempe,telur
+453,Sambal Tumpang,tahu,tempe,telur
+454,Telur Puyuh Balado,tahu,tempe,telur
+455,Sayur Tempe Tahu Cabe Hijau,tahu,tempe,telur
+456,Tahu Guling,tahu,tempe,telur
+457,Tahu Gimbal Udang,tahu,tempe,telur
+458,Tahu Bubuk,tahu,tempe,telur
+459,Tumis Buncis Tempe,sayur,sayur,sayur
+460,Salad Sayur,sayur,sayur,sayur
+461,Pecel Madiun,sayur,sayur,sayur
+462,Coleslaw,sayur,sayur,sayur
+463,Oseng Pare Telur,sayur,sayur,sayur
+464,Nasi Tim Sayuran,sayur,sayur,sayur
+465,Oseng Tempe Cabe Ijo,sayur,sayur,sayur
+466,Tumis Telur Tauge,sayur,sayur,sayur
+467,Tumis Lobak Putih,sayur,sayur,sayur
+468,Sayur Krecek,sayur,sayur,sayur
+469,Ratatouille,sayur,sayur,sayur
+470,Tumis Rebung,sayur,sayur,sayur
+471,Lontong Tahu Khas Blora,sayur,sayur,sayur
+472,Terong Goreng,sayur,sayur,sayur
+473,Terong Balado,sayur,sayur,sayur
+474,Tumis Pakis,sayur,sayur,sayur
+475,Asinan Betawi,sayur,sayur,sayur
+476,Capcay Goreng Jawa,sayur,sayur,sayur
+477,Rendang Jamur,sayur,sayur,sayur
+478,Tumis Brokoli Kembang Kol,sayur,sayur,sayur
+479,Tumis Cuciwis Saus Tiram,sayur,sayur,sayur
+480,Buntil Daun Pepaya,sayur,sayur,sayur
+481,Sayur Asem Jawa Timur,sayur,sayur,sayur
+482,Sayur Bening Sawi,sayur,sayur,sayur
+483,Sayur Pepaya Muda,sayur,sayur,sayur
+484,Ote Ote,sayur,sayur,sayur
+485,Beberuk Terong,sayur,sayur,sayur
+486,Sayur Asem Jakarta,sayur,sayur,sayur
+487,Lontong Sayur Betawi,sayur,sayur,sayur
+488,Oseng Tempe Toge,sayur,sayur,sayur
+489,Oseng Tahu Tempe Kecap,sayur,sayur,sayur
+490,Oseng Labu Siam,sayur,sayur,sayur
+491,Oseng Tempe Pare,sayur,sayur,sayur
+492,Kimchi,sayur,sayur,sayur
+493,Nugget Sayur,sayur,sayur,sayur
+494,Gulai Pakis,sayur,sayur,sayur
+495,Sayur Rebung Santan,sayur,sayur,sayur
+496,Brambang Asem,sayur,sayur,sayur
+497,Toge Goreng Bogor,sayur,sayur,sayur
+498,Semur Terong,sayur,sayur,sayur
+499,Gado Gado Padang,sayur,sayur,sayur
+500,Tumis Genjer,sayur,sayur,sayur
+501,Tahu Tauco,sayur,sayur,sayur
+502,Tempe Mendol,sayur,sayur,sayur
+503,Perkedel Daging,sayur,sayur,sayur
+504,Rolade Tahu Daun Singkong,sayur,sayur,sayur
+505,Kangkung Saus Tiram,sayur,sayur,sayur
+506,Kangkung Tauco,sayur,sayur,sayur
+507,Bakwan Tahu,sayur,sayur,sayur
+508,Tumis Pakcoy,sayur,sayur,sayur
+509,Kering Kentang Tempe Pedas,sayur,sayur,sayur
+510,Urap Bali,sayur,sayur,sayur
+511,Semur Jengkol Betawi,sayur,sayur,sayur
+512,Onion Rings,sayur,sayur,sayur
+513,Gudeg Asli Jogja Komplit (Gudeg Kering),sayur,sayur,sayur
+514,Kering Tempe (Orek Tempe),sayur,sayur,sayur
+515,Lontong Sayur Padang,sayur,sayur,sayur
+516,Urap Sayur,sayur,sayur,sayur
+517,Plecing Kangkung,sayur,sayur,sayur
+518,Tumis Bunga Pepaya,sayur,sayur,sayur
+519,Mashed Potato,sayur,sayur,sayur
+520,Sayur Nangka Kapau,sayur,sayur,sayur
+521,Perkedel Kentang,sayur,sayur,sayur
+522,Sayur Lodeh,sayur,sayur,sayur
+523,Tempe Balado,sayur,sayur,sayur
+524,Kangkung Belacan,sayur,sayur,sayur
+525,Pepes Jamur,sayur,sayur,sayur
+526,Ketoprak,sayur,sayur,sayur
+527,Bakwan Udang,sayur,sayur,sayur
+528,Tumis Jamur,sayur,sayur,sayur
+529,Tumis Capcay,sayur,sayur,sayur
+530,Tumis Jantung Pisang,sayur,sayur,sayur
+531,Lodeh Terong Santan,sayur,sayur,sayur
+532,Botok,sayur,sayur,sayur
+533,Acar Timun,sayur,sayur,sayur
+534,Tumis Pare,sayur,sayur,sayur
+535,Tumis Bokcoy,sayur,sayur,sayur
+536,Sayur Asem Jawa Tengah,sayur,sayur,sayur
+537,Sayur Bobor Bayam,sayur,sayur,sayur
+538,Pecel Sayur,sayur,sayur,sayur
+539,Karedok,sayur,sayur,sayur
+540,Tumis Oncom Leunca (Ulukutek Leunca),sayur,sayur,sayur
+541,Tumis Labu Siam,sayur,sayur,sayur
+542,Tumis Buncis Udang,sayur,sayur,sayur
+543,Salad Buah (Fruit),sayur,sayur,sayur
+544,Bakwan Dadar Jagung,sayur,sayur,sayur
+545,Gado Gado Betawi,sayur,sayur,sayur
+546,Bakwan Sayur (Bala Bala),sayur,sayur,sayur
+547,Tumis Baby Kailan,sayur,sayur,sayur
+548,Sayur Asem Sunda,sayur,sayur,sayur
+549,Jamur Krispi,sayur,sayur,sayur
+550,Rendang Jengkol,sayur,sayur,sayur
+551,Burgo,sayur,sayur,sayur
+552,Sayur Oyong Bening Soun,sayur,sayur,sayur
+553,Sayur Bayam Bening,sayur,sayur,sayur
+554,Jengkol Balado,sayur,sayur,sayur
+555,Gulai Daun Singkong,sayur,sayur,sayur
+556,Pecel Terong,sayur,sayur,sayur
+557,Jamur Enoki Krispi Goreng,sayur,sayur,sayur
+558,Rujak Es Krim,sayur,sayur,sayur
+559,Tumis Kacang Panjang,sayur,sayur,sayur
+560,Rujak Cingur,sayur,sayur,sayur
+561,Tumis Sawi Putih,sayur,sayur,sayur
+562,Semur Tahu,sayur,sayur,sayur
+563,Terong Bakar,sayur,sayur,sayur
+564,Trancam,sayur,sayur,sayur
+565,Tumis Kembang Turi Teri,sayur,sayur,sayur
+566,Tumis Tauge,sayur,sayur,sayur
+567,Tumis Jamur Kancing,sayur,sayur,sayur
+568,Sayur Katuk Kuah Santan,sayur,sayur,sayur
+569,Tumis Kangkung,sayur,sayur,sayur
+570,Sambal Oncom,sambal,sambal,sambal
+571,Sambal Cumi,sambal,sambal,sambal
+572,Sambal Soto,sambal,sambal,sambal
+573,Sambal Tuk Tuk,sambal,sambal,sambal
+574,Sambal Nanas,sambal,sambal,sambal
+575,Sambal Pencok Kacang Panjang,sambal,sambal,sambal
+576,Sambal Belut,sambal,sambal,sambal
+577,Sambal Pecak,sambal,sambal,sambal
+578,Sambal Embe,sambal,sambal,sambal
+579,Sambal Dabu Dabu,sambal,sambal,sambal
+580,Sambal Kemangi,sambal,sambal,sambal
+581,Sambal Bajak,sambal,sambal,sambal
+582,Sambal Lalapan,sambal,sambal,sambal
+583,Sambal Kencur,sambal,sambal,sambal
+584,Sambal Pecel,sambal,sambal,sambal
+585,Sambal Tahu Goreng,sambal,sambal,sambal
+586,Sambal Bada,sambal,sambal,sambal
+587,Sambal Petis,sambal,sambal,sambal
+588,Sambal Matah Kecombrang,sambal,sambal,sambal
+589,Sambal Korek,sambal,sambal,sambal
+590,Sambal Terong,sambal,sambal,sambal
+591,Sambal Bawang,sambal,sambal,sambal
+592,Sambal Teri,sambal,sambal,sambal
+593,Sambal Tomat,sambal,sambal,sambal
+594,Sambal Ijo,sambal,sambal,sambal
+595,Sambal Cibiuk,sambal,sambal,sambal
+596,Sambal Pete,sambal,sambal,sambal
+597,Sambal Kecap,sambal,sambal,sambal
+598,Sambal Mangga Muda (Pencit),sambal,sambal,sambal
+599,Sambal Terasi,sambal,sambal,sambal
+600,Balado Kentang,sambal,sambal,sambal
+601,Sambal Goang,sambal,sambal,sambal
+602,Sambal Tempoyak Udang,sambal,sambal,sambal
+603,Spaghetti Brulee,nasi,mie,pasta
+604,Nasi Daun Jeruk,nasi,mie,pasta
+605,Indomie Seblak,nasi,mie,pasta
+606,Mie Tek Tek Kuah,nasi,mie,pasta
+607,Mie Goreng Basah,nasi,mie,pasta
+608,Kimbab,nasi,mie,pasta
+609,Nasi Mandhi,nasi,mie,pasta
+610,Bola Bola Mie,nasi,mie,pasta
+611,Ketupat,nasi,mie,pasta
+612,Nasi Ayam Semarang,nasi,mie,pasta
+613,Nasi Tiwul,nasi,mie,pasta
+614,Risotto,nasi,mie,pasta
+615,Mie Goreng Nyemek,nasi,mie,pasta
+616,Bubur Korea (Dakjuk),nasi,mie,pasta
+617,Nasi Gemuk,nasi,mie,pasta
+618,Nasi Tomat,nasi,mie,pasta
+619,Mie Kuah Ikan Bangka,nasi,mie,pasta
+620,Mie Sagu Kuah,nasi,mie,pasta
+621,Cwie Mie Malang,nasi,mie,pasta
+622,Pad Thai,nasi,mie,pasta
+623,Nasi Goreng Nanas Khas Thailand,nasi,mie,pasta
+624,Nasi Padang,nasi,mie,pasta
+625,Jajangmyeon,nasi,mie,pasta
+626,Nasi Kapau,nasi,mie,pasta
+627,Mie Ayam Bangka,nasi,mie,pasta
+628,Macaroni Cheese (Mac n cheese),nasi,mie,pasta
+629,Spaghetti Rendang,nasi,mie,pasta
+630,Mie Cakalang,nasi,mie,pasta
+631,Mie Kuah Susu,nasi,mie,pasta
+632,Mie Tarempa,nasi,mie,pasta
+633,Mie Aceh Kuah,nasi,mie,pasta
+634,Mie Tulang Bandung,nasi,mie,pasta
+635,Nasi Goreng Shirataki,nasi,mie,pasta
+636,Nasi Rames,nasi,mie,pasta
+637,Laksa Bogor,nasi,mie,pasta
+638,Nasi Tim Bayi,nasi,mie,pasta
+639,Nasi Telur Korea,nasi,mie,pasta
+640,Mie Ayam Solo,nasi,mie,pasta
+641,Loco Moco,nasi,mie,pasta
+642,Beef Pho Vietnam,nasi,mie,pasta
+643,Mie Tiaw Goreng Ayam,nasi,mie,pasta
+644,Bubur Ayam Cianjur,nasi,mie,pasta
+645,Nasi Bakar Ikan Tongkol,nasi,mie,pasta
+646,Sate Kribo,nasi,mie,pasta
+647,Ramen,nasi,mie,pasta
+648,Mie Korea Ramyeon,nasi,mie,pasta
+649,Mie Shirataki Goreng,nasi,mie,pasta
+650,Nasi Goreng Tek Tek (Abang Kaki Lima),nasi,mie,pasta
+651,Spaghetti Seafood Marinara,nasi,mie,pasta
+652,Indomie Goreng,nasi,mie,pasta
+653,Bubur Ayam Cirebon,nasi,mie,pasta
+654,Nasi Bakar Bandung Sunda,nasi,mie,pasta
+655,Mie Setan,nasi,mie,pasta
+656,Nasi Campur Bali,nasi,mie,pasta
+657,Mie Pangsit,nasi,mie,pasta
+658,Martabak Mie,nasi,mie,pasta
+659,Nasi Lengko,nasi,mie,pasta
+660,Nasi Ulam,nasi,mie,pasta
+661,Nasi Godog Khas Magelang,nasi,mie,pasta
+662,Nasi Goreng Magelangan,nasi,mie,pasta
+663,Laksa Mie,nasi,mie,pasta
+664,Mie Lidi Goreng,nasi,mie,pasta
+665,Papeda Cilung,nasi,mie,pasta
+666,Nasi Tempong,nasi,mie,pasta
+667,Bakwan Mie,nasi,mie,pasta
+668,Baked Rice (Nasi Panggang),nasi,mie,pasta
+669,Mie Ongklok,nasi,mie,pasta
+670,Mie Gomak Goreng,nasi,mie,pasta
+671,Cireng Nasi,nasi,mie,pasta
+672,Nasi Goreng Merah,nasi,mie,pasta
+673,Mie Ayam Jamur,nasi,mie,pasta
+674,Kwetiau Siram,nasi,mie,pasta
+675,Nasi Kebuli Ayam,nasi,mie,pasta
+676,Mie Titi,nasi,mie,pasta
+677,Nasi Goreng Telur,nasi,mie,pasta
+678,Pangsit Goreng,nasi,mie,pasta
+679,Mie Goreng Seafood,nasi,mie,pasta
+680,Nasi Goreng Rendang,nasi,mie,pasta
+681,Bakmoy,nasi,mie,pasta
+682,Mie Celor,nasi,mie,pasta
+683,Nasi Bakar Ati Ampela,nasi,mie,pasta
+684,Ifumie,nasi,mie,pasta
+685,Lontong Balap,nasi,mie,pasta
+686,Misoa Kuah,nasi,mie,pasta
+687,Soun Kuah,nasi,mie,pasta
+688,Nasi Megono,nasi,mie,pasta
+689,Ayam Hainan,nasi,mie,pasta
+690,Bibimbap,nasi,mie,pasta
+691,Nasi Bakar Cumi (Sambalado Cumi),nasi,mie,pasta
+692,Bread Pudding (Puding Roti Tawar),nasi,mie,pasta
+693,Pastel Tutup Klasik,nasi,mie,pasta
+694,Nasi Goreng Gila,nasi,mie,pasta
+695,Kari Bihun Medan,nasi,mie,pasta
+696,Nasi Goreng Sapi,nasi,mie,pasta
+697,Nasi Bakar Teri (Sambel Teri Cabai Hijau),nasi,mie,pasta
+698,Nasi Goreng Seafood,nasi,mie,pasta
+699,Nasi Goreng Kambing,nasi,mie,pasta
+700,Nasi Goreng Kampung,nasi,mie,pasta
+701,Nasi Goreng Oriental,nasi,mie,pasta
+702,Nasi Goreng Aceh,nasi,mie,pasta
+703,Spaghetti Carbonara,nasi,mie,pasta
+704,Soun Goreng,nasi,mie,pasta
+705,Bihun Kuah,nasi,mie,pasta
+706,Bubur Ayam,nasi,mie,pasta
+707,Mie Yamin Bandung,nasi,mie,pasta
+708,Nasi Tutug Oncom,nasi,mie,pasta
+709,Bihun Goreng Isi Special,nasi,mie,pasta
+710,Nasi Goreng Kikil Cabe Hijau,nasi,mie,pasta
+711,Nasi Goreng Terasi (Belacan),nasi,mie,pasta
+712,Spaghetti Bolognese Meatballs (Bola-bola Daging),nasi,mie,pasta
+713,Nasi Goreng Teri,nasi,mie,pasta
+714,Mie Goreng Jawa,nasi,mie,pasta
+715,Kentang Goreng (French Fries & Potato Wedges),nasi,mie,pasta
+716,Fettucini Carbonara,nasi,mie,pasta
+717,Rice Ball Minion,nasi,mie,pasta
+718,Nasi Krawu,nasi,mie,pasta
+719,Mie Kocok Bandung,nasi,mie,pasta
+720,Macaroni Schotel,nasi,mie,pasta
+721,Kwetiau Kuah,nasi,mie,pasta
+722,Nasi Bakar Ayam Suwir,nasi,mie,pasta
+723,Nasi Liwet Sunda Teri,nasi,mie,pasta
+724,Mie Godog Jawa (Mie Rebus Jawa),nasi,mie,pasta
+725,Nasi Uduk Betawi Komplit,nasi,mie,pasta
+726,Nasi Timbel Komplit,nasi,mie,pasta
+727,Nasi Goreng Pete,nasi,mie,pasta
+728,Nasi Goreng Kuning Kunyit,nasi,mie,pasta
+729,Japchae,nasi,mie,pasta
+730,Nasi Kebuli Kambing,nasi,mie,pasta
+731,Nasi Tim Ayam,nasi,mie,pasta
+732,Mie Sayur Hijau Bayam,nasi,mie,pasta
+733,Mie Goreng Aceh,nasi,mie,pasta
+734,Spaghetti Aglio Olio,nasi,mie,pasta
+735,Nasi Goreng Padang,nasi,mie,pasta
+736,Nasi Goreng Jawa,nasi,mie,pasta
+737,Makaroni Keju Kukus,nasi,mie,pasta
+738,Lasagna Panggang,nasi,mie,pasta
+739,Makaroni Goreng,nasi,mie,pasta
+740,Nasi Kuning Komplit,nasi,mie,pasta
+741,Tinutuan,nasi,mie,pasta
+742,Donat Mie,nasi,mie,pasta
+743,Nasi Lemak Lengkap,nasi,mie,pasta
+744,Bakso Mercon,sop,soto,bakso
+745,Sup Merah,sop,soto,bakso
+746,Sup Matahari,sop,soto,bakso
+747,Soto Sokaraja,sop,soto,bakso
+748,Bakso Aci Tulang Rangu,sop,soto,bakso
+749,Sup Ikan Gabus,sop,soto,bakso
+750,Sundubu Jjigae,sop,soto,bakso
+751,Soto Pacitan,sop,soto,bakso
+752,Sop Ayam Suwir,sop,soto,bakso
+753,Soto Kuah,sop,soto,bakso
+754,Soto Daging Sapi Madura,sop,soto,bakso
+755,Miso Soup,sop,soto,bakso
+756,Tom Yam Ayam,sop,soto,bakso
+757,Soto Sulung,sop,soto,bakso
+758,Bakso Sapi (Pentol Daging Asli),sop,soto,bakso
+759,Bakso Bakar Sapi,sop,soto,bakso
+760,Bakso Bakar Pedas Manis,sop,soto,bakso
+761,Bakso Solo,sop,soto,bakso
+762,Soto Babat,sop,soto,bakso
+763,Cream Soup Ayam,sop,soto,bakso
+764,Sup Makaroni,sop,soto,bakso
+765,Soto Tangkar,sop,soto,bakso
+766,Bakso Malang,sop,soto,bakso
+767,Shabu Shabu,sop,soto,bakso
+768,Soto Ambengan,sop,soto,bakso
+769,Bakso Lo Hoa,sop,soto,bakso
+770,Sop Ikan Nila Batam,sop,soto,bakso
+771,Sup Jagung Kepiting,sop,soto,bakso
+772,Bakso Urat,sop,soto,bakso
+773,Soto Ayam Bening,sop,soto,bakso
+774,Soto Ceker,sop,soto,bakso
+775,Tauto Pekalongan,sop,soto,bakso
+776,Sayur Sop Ayam,sop,soto,bakso
+777,Soto Kuning Bogor,sop,soto,bakso
+778,Soto Betawi,sop,soto,bakso
+779,Sop Konro,sop,soto,bakso
+780,Coto Makassar,sop,soto,bakso
+781,Tekwan,sop,soto,bakso
+782,Soto Banjar,sop,soto,bakso
+783,Sop Buntut,sop,soto,bakso
+784,Sup Kacang Merah Daging Sapi,sop,soto,bakso
+785,Sop Iga Sapi,sop,soto,bakso
+786,Soto Ayam Santan Medan,sop,soto,bakso
+787,Sup Ikan Gurame,sop,soto,bakso
+788,Sop Bakso,sop,soto,bakso
+789,Soto Padang,sop,soto,bakso
+790,Soto Kudus,sop,soto,bakso
+791,Sup Ikan Kakap,sop,soto,bakso
+792,Soto Mie Bogor,sop,soto,bakso
+793,Sop Manten,sop,soto,bakso
+794,Bubur (Jenang) Jagung,sop,soto,bakso
+795,Sop Ayam Kampung,sop,soto,bakso
+796,Bakso Goreng (Basreng),sop,soto,bakso
+797,Sop Sayur,sop,soto,bakso
+798,Tom Yam Seafood Udang Ikan,sop,soto,bakso
+799,Seblak Basah Bandung,sop,soto,bakso
+800,Soto Ayam Kuning Lamongan,sop,soto,bakso
+801,Sop Kimlo,sop,soto,bakso
+802,Sup Asparagus Krim Ayam,sop,soto,bakso
+803,Bakso Cuanki Udang,sop,soto,bakso
+804,Bakso Aci,sop,soto,bakso
+805,Bubur Kacang Hijau Madura,sop,soto,bakso
+806,Sop Ubi,sop,soto,bakso
+807,Sop Kambing,sop,soto,bakso
+808,Sup Udang,sop,soto,bakso
+809,Sroto Banyumas,sop,soto,bakso
+810,Soto Bandung,sop,soto,bakso
+811,Sup Jamur Kancing,sop,soto,bakso
+812,Sup Tahu,sop,soto,bakso
+813,Sup Jagung,sop,soto,bakso
+814,Zuppa Soup,sop,soto,bakso
+815,Pilus Cikur,kue,roti,roti
+816,Crepes Teflon,kue,roti,roti
+817,Oreo Goreng,kue,roti,roti
+818,Gingerbread (Kue Jahe),kue,roti,roti
+819,Kue Baruasa,kue,roti,roti
+820,Kue Janda Genit,kue,roti,roti
+821,Martabak Manis Mini,kue,roti,roti
+822,Bolu Chocolatos,kue,roti,roti
+823,Burger Bun,kue,roti,roti
+824,Brownies Chocolatos,kue,roti,roti
+825,Pancake Teflon,kue,roti,roti
+826,Bolu Susu Lembang,kue,roti,roti
+827,Kue Lontar Papua,kue,roti,roti
+828,Croffle,kue,roti,roti
+829,Kue Moho,kue,roti,roti
+830,Kue Jongkong,kue,roti,roti
+831,Hotteok,kue,roti,roti
+832,Kue Lapet,kue,roti,roti
+833,Peanut Butter Cookies,kue,roti,roti
+834,Sandwich Buah,kue,roti,roti
+835,Bolu Susu,kue,roti,roti
+836,Egg Benedict,kue,roti,roti
+837,Bolu Meranti Keju,kue,roti,roti
+838,Kue Lapis Pepe Pandan,kue,roti,roti
+839,Lapis India Khas Banjar,kue,roti,roti
+840,Nastar Gulung,kue,roti,roti
+841,Kue Beng Beng,kue,roti,roti
+842,Long Potato,kue,roti,roti
+843,Kacang Sembunyi,kue,roti,roti
+844,Pizza Mozzarella Jamur,kue,roti,roti
+845,Roti Ubi Korea,kue,roti,roti
+846,Marshmallow Cookies,kue,roti,roti
+847,Baguette,kue,roti,roti
+848,Banoffee Pie,kue,roti,roti
+849,Kue Dange,kue,roti,roti
+850,Popcorn Caramel,kue,roti,roti
+851,Cornflake Cookies,kue,roti,roti
+852,Donat Crispy,kue,roti,roti
+853,Takoyaki,kue,roti,roti
+854,Pizza Dough,kue,roti,roti
+855,Kue Lapis Legit,kue,roti,roti
+856,Meringue Cookies,kue,roti,roti
+857,Selai Srikaya,kue,roti,roti
+858,Setup Roti Tawar,kue,roti,roti
+859,Pizza Tuna,kue,roti,roti
+860,Pizza Goreng Lipat,kue,roti,roti
+861,Sandwich Homemade,kue,roti,roti
+862,Korean Garlic Bread,kue,roti,roti
+863,Bolu Mentega,kue,roti,roti
+864,Pizza Mini,kue,roti,roti
+865,Pizza Seafood,kue,roti,roti
+866,Pizza Daging Sapi,kue,roti,roti
+867,Bomboloni,kue,roti,roti
+868,Pizza Sosis Ayam,kue,roti,roti
+869,Kue Ogura Pandan,kue,roti,roti
+870,Apem Selong,kue,roti,roti
+871,Selai Stroberi,kue,roti,roti
+872,Dessert Box Coklat,kue,roti,roti
+873,Roti John,kue,roti,roti
+874,Pia Pia,kue,roti,roti
+875,Donat Singkong,kue,roti,roti
+876,Cream Cheese,kue,roti,roti
+877,Kue Cincin,kue,roti,roti
+878,Lekker Holland,kue,roti,roti
+879,Bagel,kue,roti,roti
+880,Odading / Bolang Baling / Kue Bantal,kue,roti,roti
+881,Stik Keju Mozarella,kue,roti,roti
+882,Apem Kukus Gula Merah,kue,roti,roti
+883,Kue Balok,kue,roti,roti
+884,Kue Bagea Sagu,kue,roti,roti
+885,Putri Mandi,kue,roti,roti
+886,Bolu Kukus Ubi,kue,roti,roti
+887,Dessert Oreo Box,kue,roti,roti
+888,Keju Mozarella,kue,roti,roti
+889,Roti Maryam,kue,roti,roti
+890,Rainbow Cake Kukus,kue,roti,roti
+891,Crepes Pisang Coklat Keju,kue,roti,roti
+892,Puff Pastry,kue,roti,roti
+893,Pretzel,kue,roti,roti
+894,Apple Strudel,kue,roti,roti
+895,Killer Soft Bread,kue,roti,roti
+896,Donat Ubi Ungu,kue,roti,roti
+897,Tokyo Banana,kue,roti,roti
+898,Butter Cookies,kue,roti,roti
+899,Pop Cake,kue,roti,roti
+900,Swiss Roll,kue,roti,roti
+901,Bolu Kismis,kue,roti,roti
+902,Donat Pisang,kue,roti,roti
+903,Cake Kurma,kue,roti,roti
+904,Fruit Cake,kue,roti,roti
+905,Bingka Pisang,kue,roti,roti
+906,Bingka Barandam,kue,roti,roti
+907,Onigiri,kue,roti,roti
+908,Roti Unyil,kue,roti,roti
+909,Kemplang,kue,roti,roti
+910,Kue Akar Kelapa,kue,roti,roti
+911,Kue Keciput,kue,roti,roti
+912,Ketan Serundeng,kue,roti,roti
+913,Kue Talam Pisang,kue,roti,roti
+914,Lemon Cake,kue,roti,roti
+915,Cheese Tart,kue,roti,roti
+916,Red Velvet,kue,roti,roti
+917,Kue Talam Labu Kuning,kue,roti,roti
+918,Nugget Pisang,kue,roti,roti
+919,Kue Semprit Jadul,kue,roti,roti
+920,French Toast,kue,roti,roti
+921,Bolu Ketan Hitam,kue,roti,roti
+922,Japanese Cheese Cake,kue,roti,roti
+923,Roti Bluder,kue,roti,roti
+924,Kue Kering Coklat,kue,roti,roti
+925,Kue Sagon,kue,roti,roti
+926,Kue Tambang,kue,roti,roti
+927,Ketan Sarikaya,kue,roti,roti
+928,Roti Tawar Goreng Isi Ragout,kue,roti,roti
+929,Lidah Kucing,kue,roti,roti
+930,Lempeng Pisang,kue,roti,roti
+931,Bolu Zebra,kue,roti,roti
+932,Bolu Minyak,kue,roti,roti
+933,Kue Bugis,kue,roti,roti
+934,Churros,kue,roti,roti
+935,Kastengel Keju,kue,roti,roti
+936,Bola Bola Ubi,kue,roti,roti
+937,Muffin Pisang,kue,roti,roti
+938,Ogura Cake Zebra,kue,roti,roti
+939,Cupcake Coklat dan Lemon,kue,roti,roti
+940,Dorayaki Isi Coklat,kue,roti,roti
+941,Kue Talam Jagung,kue,roti,roti
+942,Martabak Bangka Manis,kue,roti,roti
+943,Croissant,kue,roti,roti
+944,Milk Bath Cake (Tres Leches),kue,roti,roti
+945,Kuping Gajah,kue,roti,roti
+946,Sawut Singkong Gunung,kue,roti,roti
+947,Pisang Rai,kue,roti,roti
+948,Es Pisang Ijo,kue,roti,roti
+949,Karipap (Curry Puff),kue,roti,roti
+950,Strudel Keju,kue,roti,roti
+951,Bolu Kukus Pelangi,kue,roti,roti
+952,Pizza Hut Teflon,kue,roti,roti
+953,Bolu Gulung Coklat,kue,roti,roti
+954,Klepon Ubi Ungu,kue,roti,roti
+955,Gabin Tape,kue,roti,roti
+956,Cilor,kue,roti,roti
+957,Pie Susu,kue,roti,roti
+958,Singkong Thailand,kue,roti,roti
+959,Jalangkote,kue,roti,roti
+960,Panada,kue,roti,roti
+961,Kue Telur Gabus,kue,roti,roti
+962,Donat Jadul,kue,roti,roti
+963,Hotang (Hotdog Kentang) / Sostang (Sosis Kentang),kue,roti,roti
+964,Ongol Ongol,kue,roti,roti
+965,Lemper Ayam Bakar,kue,roti,roti
+966,Onde-Onde Isi Kacang Hijau,kue,roti,roti
+967,Misro,kue,roti,roti
+968,Serabi Bandung Oncom,kue,roti,roti
+969,Batagor Bandung,kue,roti,roti
+970,Apem Panggang,kue,roti,roti
+971,Getas,kue,roti,roti
+972,Getuk Lindri,kue,roti,roti
+973,Kue Lapis Hunkwe,kue,roti,roti
+974,Nagasari,kue,roti,roti
+975,Putu Mayang,kue,roti,roti
+976,Sosis Solo,kue,roti,roti
+977,Kue Talam Ebi,kue,roti,roti
+978,Wajik Ketan,kue,roti,roti
+979,Wingko Babat,kue,roti,roti
+980,Awug-Awug,kue,roti,roti
+981,Kue Cucur Gula Merah,kue,roti,roti
+982,Kue Lumpur Kentang,kue,roti,roti
+983,Lemet Singkong,kue,roti,roti
+984,Kue Ku,kue,roti,roti
+985,Lepet Jagung,kue,roti,roti
+986,Puding Zebra,kue,roti,roti
+987,Kue Kacang,kue,roti,roti
+988,Roti Tawar,kue,roti,roti
+989,Roti Bakar Keju Coklat,kue,roti,roti
+990,Cinnamon Roll,kue,roti,roti
+991,Kroket Kentang Isi Ayam Wortel,kue,roti,roti
+992,Kue Lapis Beras,kue,roti,roti
+993,Puding Jagung,kue,roti,roti
+994,Muffin Coklat,kue,roti,roti
+995,Cake Pisang (Banana Bread),kue,roti,roti
+996,Bolu Gulung Pandan Keju,kue,roti,roti
+997,Donat Kentang,kue,roti,roti
+998,Kue Kering Nastar,kue,roti,roti
+999,Bika Ambon,kue,roti,roti
+1000,Bolu Koja,kue,roti,roti
+1001,Cente Manis,kue,roti,roti
+1002,Combro,kue,roti,roti
+1003,Sagu Keju,kue,roti,roti
+1004,Kue Sus Isi Vla,kue,roti,roti
+1005,Kue Bolu Sarang Semut (Caramel Cake),kue,roti,roti
+1006,Roti Manis,kue,roti,roti
+1007,Chocolate Lava Cake,kue,roti,roti
+1008,Prol Tape,kue,roti,roti
+1009,Poffertjes,kue,roti,roti
+1010,Cheese Cake Kukus (Tanpa Oven),kue,roti,roti
+1011,Putu Ayu,kue,roti,roti
+1012,Kue Putri Salju,kue,roti,roti
+1013,Choco Chip Cookies (Kukis),kue,roti,roti
+1014,Bolu Tape,kue,roti,roti
+1015,Klapertart Klasik,kue,roti,roti
+1016,Pisang Bolen Keju,kue,roti,roti
+1017,Puding Brownies,kue,roti,roti
+1018,Pie Vla Buah Mini (Fruit Tartlet),kue,roti,roti
+1019,Kue Ketan Hitam Kukus,kue,roti,roti
+1020,Bolu Marmer,kue,roti,roti
+1021,Brownies Panggang Klasik,kue,roti,roti
+1022,Pastel Isi Ayam,kue,roti,roti
+1023,Roti Sobek,kue,roti,roti
+1024,Bitterballen,kue,roti,roti
+1025,Roti Goreng Isi Cokelat,kue,roti,roti
+1026,Black Forest,kue,roti,roti
+1027,Kue Bangkit,kue,roti,roti
+1028,Kue Talam Tepung Beras Pandan,kue,roti,roti
+1029,Kue Mochi,kue,roti,roti
+1030,Kue Gabin Ragout,kue,roti,roti
+1031,Roti Kasur,kue,roti,roti
+1032,Kue Leker,kue,roti,roti
+1033,Sponge Cake Lemon,kue,roti,roti
+1034,Kue Rangi,kue,roti,roti
+1035,Tiramisu,kue,roti,roti
+1036,Chiffon Cake Pandan,kue,roti,roti
+1037,Risoles Ragout Sayur,kue,roti,roti
+1038,Kue Khamir (Kamir),kue,roti,roti
+1039,Bingka Kentang,kue,roti,roti
+1040,Kue Lumpur Labu Kuning,kue,roti,roti
+1041,Roti Pisang,kue,roti,roti
+1042,Egg Tart Portuguese,kue,roti,roti
+1043,Waffle,kue,roti,roti
+1044,Roti Boy O (Mocha Bun),kue,roti,roti
+1045,Mille Crepes,kue,roti,roti
+1046,Brownies Kukus Lumer ala Amanda,kue,roti,roti
+1047,Bolu Kukus Gula Merah,kue,roti,roti
+1048,Kue Talam Singkong Gula Merah,kue,roti,roti
+1049,Bolu Kukus Pandan,kue,roti,roti
+1050,Bolu Kukus Pisang,kue,roti,roti
+1051,Pancake Pisang,kue,roti,roti
+1052,Roti Isi Daging,kue,roti,roti
+1053,Kue Lapis Surabaya (Spikoe),kue,roti,roti
+1054,Kue Lumpur Surga,kue,roti,roti
+1055,Carrot Cake,kue,roti,roti
+1056,Macaroon Vanilla Oreo,kue,roti,roti
+1057,Chocolate Mousse Cake,kue,roti,roti
+1058,Brudel Keju Kukus,kue,roti,roti
+1059,Kue Garpu,kue,roti,roti
+1060,Cloud Bread,kue,roti,roti
+1061,Almond Crispy,kue,roti,roti
+1062,Roti Jala Kari Daging,kue,roti,roti
+1063,Apple Pie,kue,roti,roti
+1064,Coklat Praline Kurma Kacang Mete,kue,roti,roti
+1065,Bolu Panggang Coklat,kue,roti,roti
+1066,Kue Tusuk Gigi,kue,roti,roti
+1067,Kue Tart Ulang Tahun,kue,roti,roti
+1068,Kue Cubit,kue,roti,roti
+1069,Sus Buah,kue,roti,roti
+1070,Bolu Pisang,kue,roti,roti
+1071,Kue Pancong Betawi,kue,roti,roti
+1072,Martabak Manis Cokelat Kacang,kue,roti,roti
+1073,Kue Nastar Keju,kue,roti,roti
+1074,Martabak Manis Keju Susu,kue,roti,roti
+1075,Getuk Pisang,kue,roti,roti
+1076,Pukis Keju,kue,roti,roti
+1077,Candil Ubi Ungu,jajanan,snack,snack
+1078,Lemang Tapai,jajanan,snack,snack
+1079,Tela Tela Singkong,jajanan,snack,snack
+1080,Madu Mongso,jajanan,snack,snack
+1081,Ubi Goreng,jajanan,snack,snack
+1082,Banana Roll,jajanan,snack,snack
+1083,Tape Ketan,jajanan,snack,snack
+1084,Kacang Atom (Sukro) Homemade,jajanan,snack,snack
+1085,Kue Talam,jajanan,snack,snack
+1086,Bihun Gulung,jajanan,snack,snack
+1087,Wedang Angsle,jajanan,snack,snack
+1088,Telur Gulung,jajanan,snack,snack
+1089,Choi Pan,jajanan,snack,snack
+1090,Pisang Gulung,jajanan,snack,snack
+1091,Lontong Medan,jajanan,snack,snack
+1092,Pisang Goreng Madu,jajanan,snack,snack
+1093,Cibay Pedas,jajanan,snack,snack
+1094,Timus Singkong,jajanan,snack,snack
+1095,Cucuru Bayao,jajanan,snack,snack
+1096,Pisang Goreng Pontianak,jajanan,snack,snack
+1097,Sekoteng,jajanan,snack,snack
+1098,Kue Mendut,jajanan,snack,snack
+1099,Rondo Royal (Tape Goreng),jajanan,snack,snack
+1100,Lupis,jajanan,snack,snack
+1101,Kacang Telur,jajanan,snack,snack
+1102,Kue Cubit Green Tea,jajanan,snack,snack
+1103,Cilok Isi Kuah,jajanan,snack,snack
+1104,Pisang Epe,jajanan,snack,snack
+1105,Rempeyek Kacang Tanah,jajanan,snack,snack
+1106,Es Susu Pop Ice Mambo,jajanan,snack,snack
+1107,Kacang Disco,jajanan,snack,snack
+1108,Jasuke,jajanan,snack,snack
+1109,Kue Sakura (Bolu),jajanan,snack,snack
+1110,Sala Lauak,jajanan,snack,snack
+1111,Biji Salak,jajanan,snack,snack
+1112,Semar Mendem,jajanan,snack,snack
+1113,Kulit Pangsit,jajanan,snack,snack
+1114,Gandasturi,jajanan,snack,snack
+1115,Martabak Mesir,jajanan,snack,snack
+1116,Corndog,jajanan,snack,snack
+1117,Biji Ketapang,jajanan,snack,snack
+1118,Kacang Bawang,jajanan,snack,snack
+1119,Kembang Goyang,jajanan,snack,snack
+1120,Timus Ubi,jajanan,snack,snack
+1121,Peyek Udang,jajanan,snack,snack
+1122,Lumpia Basah,jajanan,snack,snack
+1123,Bubur Manado,jajanan,snack,snack
+1124,Barongko,jajanan,snack,snack
+1125,Keripik Bawang,jajanan,snack,snack
+1126,Keripik Pisang,jajanan,snack,snack
+1127,Cilok,jajanan,snack,snack
+1128,Getuk Goreng,jajanan,snack,snack
+1129,Arem-Arem,jajanan,snack,snack
+1130,Es Gabus,jajanan,snack,snack
+1131,Carang Gesing,jajanan,snack,snack
+1132,Bubur Ketan Hitam,jajanan,snack,snack
+1133,Kue Mangkok,jajanan,snack,snack
+1134,Kue Pukis Coklat (Pancong),jajanan,snack,snack
+1135,Cenil,jajanan,snack,snack
+1136,Dadar Gulung Isi Kelapa,jajanan,snack,snack
+1137,Bubur Kacang Hijau,jajanan,snack,snack
+1138,Cheese Stick (Stik Keju),jajanan,snack,snack
+1139,Cireng Isi,jajanan,snack,snack
+1140,Bakpia Teflon Khas Yogyakarta,jajanan,snack,snack
+1141,Pisang Bakar Penyet,jajanan,snack,snack
+1142,Bubur Sumsum,jajanan,snack,snack
+1143,Onde-Onde Ketawa,jajanan,snack,snack
+1144,Bola Bola Coklat (Truffle),jajanan,snack,snack
+1145,Jenang Gempol,jajanan,snack,snack
+1146,Bubur Mutiara,jajanan,snack,snack
+1147,Lumpia Rebung,jajanan,snack,snack
+1148,Terang Bulan,jajanan,snack,snack
+1149,Martabak Bandung,jajanan,snack,snack
+1150,Samosa,jajanan,snack,snack
+1151,Risoles Mayo,jajanan,snack,snack
+1152,Misoa Goreng,jajanan,snack,snack
+1153,Perkedel Bondon,jajanan,snack,snack
+1154,Bubur Candil,jajanan,snack,snack
+1155,Amparan Tatak,jajanan,snack,snack
+1156,Ketan Durian,jajanan,snack,snack
+1157,Pisang Goreng Kipas,jajanan,snack,snack
+1158,Rujak Cuka,jajanan,snack,snack
+1159,Rujak Cireng,jajanan,snack,snack
+1160,Colenak,jajanan,snack,snack
+1161,Singkong Keju,jajanan,snack,snack
+1162,Ketan Susu,jajanan,snack,snack
+1163,Cakwe,jajanan,snack,snack
+1164,Lumpia Semarang,jajanan,snack,snack
+1165,Kue Putu Bambu,jajanan,snack,snack
+1166,Tteokbokki,jajanan,snack,snack
+1167,Bakpao,jajanan,snack,snack
+1168,Bubur Kampiun,jajanan,snack,snack
+1169,Lumpia Sayur Goreng,jajanan,snack,snack
+1170,Pisang Coklat Lumer (Piscok),jajanan,snack,snack
+1171,Makaroni Telur (Maklor),jajanan,snack,snack
+1172,Cimol,jajanan,snack,snack
+1173,Martabak Telur,jajanan,snack,snack
+1174,Gemblong Ketan Hitam,jajanan,snack,snack
+1175,Gemblong Ketan Putih,jajanan,snack,snack
+1176,Pisang Molen,jajanan,snack,snack
+1177,Puding Chocolatos,puding,jeli,jeli
+1178,Panna Cotta Strawberry,puding,jeli,jeli
+1179,Puding Alpukat,puding,jeli,jeli
+1180,Butterscotch Pudding,puding,jeli,jeli
+1181,Puding Mozaik,puding,jeli,jeli
+1182,Kembang Tahu Wedang (Tahok),puding,jeli,jeli
+1183,Puding Tape Ketan,puding,jeli,jeli
+1184,Puding Coklat Susu,puding,jeli,jeli
+1185,Puding Lumut,puding,jeli,jeli
+1186,Puding Buah Naga,puding,jeli,jeli
+1187,Puding Kelapa Muda,puding,jeli,jeli
+1188,Puding Pepaya,puding,jeli,jeli
+1189,Puding Ombre Ubi Ungu,puding,jeli,jeli
+1190,Silky Puding,puding,jeli,jeli
+1191,Puding Oreo,puding,jeli,jeli
+1192,Puding Strawberry,puding,jeli,jeli
+1193,Puding Sutra,puding,jeli,jeli
+1194,Puding Casablanca Pandan Coklat,puding,jeli,jeli
+1195,Puding Karamel (Caramel Custard Pudding),puding,jeli,jeli
+1196,Puding Regal Kopi,puding,jeli,jeli
+1197,Puding Labu,puding,jeli,jeli
+1198,Puding Telor Ceplok,puding,jeli,jeli
+1199,Puding Susu,puding,jeli,jeli
+1200,Es Lilin Nutrijel Pelangi,puding,jeli,jeli
+1201,Vla Puding Buah,puding,jeli,jeli
+1202,Pudot (Puding Sedot),puding,jeli,jeli
+1203,Puding Mangga,puding,jeli,jeli
+1204,Puding Santan (Gula Merah),puding,jeli,jeli
+1205,Rempeyek Teri,keripik,kerupuk,kerupuk
+1206,Keripik Bayam,keripik,kerupuk,kerupuk
+1207,Keripik Singkong,keripik,kerupuk,kerupuk
+1208,Rengginang,keripik,kerupuk,kerupuk
+1209,Kerupuk Udang,keripik,kerupuk,kerupuk
+1210,Kentang Mustofa,keripik,kerupuk,kerupuk
+1211,Kerupuk Nasi,keripik,kerupuk,kerupuk
+1212,Keripik Singkong Balado,keripik,kerupuk,kerupuk
+1213,Coffee Jelly,buah,minuman,minuman
+1214,Es Kopi Susu,buah,minuman,minuman
+1215,King Mango Thai,buah,minuman,minuman
+1216,Sale Pisang,buah,minuman,minuman
+1217,Dalgona Coffee,buah,minuman,minuman
+1218,Es Krim Strawberry,buah,minuman,minuman
+1219,Dalgona Milo,buah,minuman,minuman
+1220,MPASI 6 Bulan (Bubur Kabocha),buah,minuman,minuman
+1221,Teh Susu Telur (Talua) Khas Medan,buah,minuman,minuman
+1222,Es Alpukat,buah,minuman,minuman
+1223,Jus Buah Naga Stroberi,buah,minuman,minuman
+1224,Cappucino Cincau,buah,minuman,minuman
+1225,Mango Sago,buah,minuman,minuman
+1226,Rujak Mangga Muda,buah,minuman,minuman
+1227,Kolak Durian,buah,minuman,minuman
+1228,Es Doger,buah,minuman,minuman
+1229,Jus Alpukat,buah,minuman,minuman
+1230,Es Boba Brown Sugar,buah,minuman,minuman
+1231,Teh Tarik,buah,minuman,minuman
+1232,Setup Pisang,buah,minuman,minuman
+1233,Beras Kencur,buah,minuman,minuman
+1234,Kunyit Asam,buah,minuman,minuman
+1235,Susu Kedelai,buah,minuman,minuman
+1236,Es Gempol Pleret,buah,minuman,minuman
+1237,Kolak Labu,buah,minuman,minuman
+1238,Es Lidah Buaya,buah,minuman,minuman
+1239,Selai Nanas,buah,minuman,minuman
+1240,Rujak Serut,buah,minuman,minuman
+1241,Overnight Oat,buah,minuman,minuman
+1242,Es Rumput Laut,buah,minuman,minuman
+1243,Es Teler,buah,minuman,minuman
+1244,Thai Tea,buah,minuman,minuman
+1245,Jus Mangga,buah,minuman,minuman
+1246,Nanas Goreng,buah,minuman,minuman
+1247,Es Krim Coklat Homemade,buah,minuman,minuman
+1248,Sorbet Buah,buah,minuman,minuman
+1249,Es Timun Suri,buah,minuman,minuman
+1250,Es Manado,buah,minuman,minuman
+1251,Wedang Ronde,buah,minuman,minuman
+1252,Manisan Kolang Kaling,buah,minuman,minuman
+1253,Es Kopyor,buah,minuman,minuman
+1254,Manisan Mangga,buah,minuman,minuman
+1255,Mango Sticky Rice,buah,minuman,minuman
+1256,Sarabba,buah,minuman,minuman
+1257,Es Cendol Dawet,buah,minuman,minuman
+1258,Rujak Buah,buah,minuman,minuman
+1259,Lotek,buah,minuman,minuman
+1260,Es Selendang Mayang,buah,minuman,minuman
+1261,Es Kacang Merah,buah,minuman,minuman
+1262,Es Sarang Burung,buah,minuman,minuman
+1263,Es Kepal Milo,buah,minuman,minuman
+1264,Es Oyen,buah,minuman,minuman
+1265,Guacamole,buah,minuman,minuman
+1266,Es Timun Serut,buah,minuman,minuman
+1267,Es Buah,buah,minuman,minuman
+1268,Es Kelapa Muda,buah,minuman,minuman
+1269,Es Cincau,buah,minuman,minuman
+1270,Asinan Rambutan,buah,minuman,minuman
+1271,Asinan Buah,buah,minuman,minuman
+1272,Sop Buah,buah,minuman,minuman
+1273,Bandrek,buah,minuman,minuman
